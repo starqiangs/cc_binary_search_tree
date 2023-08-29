@@ -1,3 +1,3 @@
-set(SRC_LIST main.cc BSTree.cc)
+set(SRC_LIST main.cc)
 
 add_executable(tree ${SRC_LIST})
